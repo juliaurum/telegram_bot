@@ -59,6 +59,4 @@ python3 -m pip install pyTelegramBotAPI
 python3 json_bot.py
 ```
 
-## Автор
 
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
